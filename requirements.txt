@@ -2,6 +2,7 @@
 ipykernel
 numpy
 matplotlib
+scikit-learn
 pandas
 uncertainty-engine
 torch
