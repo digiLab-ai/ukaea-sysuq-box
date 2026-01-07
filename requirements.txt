@@ -1,0 +1,9 @@
+# python==3.13
+ipykernel
+numpy
+matplotlib
+pandas
+uncertainty-engine
+torch
+requests
+python-dotenv
