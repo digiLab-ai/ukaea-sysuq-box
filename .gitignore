@@ -1,6 +1,4 @@
 .env
-UE_USERNAME="dan.greenhouse@digilab.ai"
-UE_PASSWORD="Fraxinus2n+1"
 /data/
 /models/
 *.DS_Store
