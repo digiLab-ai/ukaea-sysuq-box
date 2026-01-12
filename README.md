@@ -9,12 +9,13 @@ System Uncertainty Quantification (SysUQ) for a box.
 
 ## Quick start
 1. Create a `.env` file and add in your Uncertainty Engine credentials:
-   1. UE_USERNAME=[your email]
-   1. UE_PASSWORD=[your password]
+   UE_USERNAME=[your email]
+   UE_PASSWORD=[your password]
 2. Install dependencies from `requirements.txt`.
-3. Add a folder for data
-4. Add the IN_OUT data folder to data/IN_OUT
-5. Run the `SysUQ.ipynb` notebook top to bottom.
+3. Add a folder for models
+4. Add a folder for data
+5. Add the IN_OUT data folder to data/IN_OUT
+6. Run the `SysUQ.ipynb` notebook top to bottom.
 
 ## Model Overview
 - The notebook sets up a functional mock up unit (FMU). 
