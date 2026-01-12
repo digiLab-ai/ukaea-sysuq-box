@@ -4,7 +4,9 @@ numpy
 matplotlib
 scikit-learn
 pandas
+pyvista[trame]
 uncertainty-engine
 torch
 requests
 python-dotenv
+certifi
